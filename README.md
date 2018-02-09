@@ -29,18 +29,18 @@ $ python switcher.py "Cucumbers is cool"
 Probability that operator is needed - 0%
 ```
 ```bash
-$python switcher.py "Call the operator"
+$ python switcher.py "Call the operator"
 Probability that operator is needed - 99%
 ```
 ```bash
-$python switcher.py "You stupid bot"
+$ python switcher.py "You stupid bot"
 Probability that operator is needed - 4%
 ```
 ```bash
-$python switcher.py "Need a real person"
+$ python switcher.py "Need a real person"
 Probability that operator is needed - 30%
 ```
 ```bash
-$python switcher.py "What is your name?"
+$ python switcher.py "What is your name?"
 Probability that operator is needed - 0%
 ```
