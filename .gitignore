@@ -156,3 +156,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# saved model weights
+saved
