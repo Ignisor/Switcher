@@ -1,6 +1,7 @@
 from keras.models import Sequential
 from keras import layers
 import settings
+from utils import text_to_ids
 
 
 class Switcher(object):
@@ -36,3 +37,6 @@ class Switcher(object):
 
     def get_weights_path(self):
         return f'saved/{self.__class__.__name__}.h5'
+
+    def predict(self, text):
+        return self.model.predict(text_to_ids(text))
