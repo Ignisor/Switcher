@@ -7,7 +7,7 @@ Using: `Python 3.6`, `TensorFlow`, `Keras`
 ## Installation
 
 - clone the project
-`git clone [url_to_project]`
+`git clone https://github.com/Ignisor/Switcher.git`
 - install requirements:
 `pip3 install -r requirements.txt`
 
