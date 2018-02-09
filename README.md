@@ -7,13 +7,9 @@ Using: `Python 3.6`, `TensorFlow`, `Keras`
 ## Installation
 
 - clone the project
-```bash
-git clone [url_to_project]
-```
+`git clone [url_to_project]`
 - install requirements:
-```bash
-pip3 install -r requirements.txt
-```
+`pip3 install -r requirements.txt`
 
 ## Using
 
